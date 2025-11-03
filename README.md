@@ -1,22 +1,25 @@
-<img width="1920" height="1080" alt="tutor-connect (2)" src="https://github.com/user-attachments/assets/fed992f9-c202-48e5-815e-33cd65ca68db" />
-
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/9d3fafb7-df1f-4c5b-81c9-1b92be362c1e" alt="TutorConnect Logo" width="180" style="border-radius: 14px;"/>
+  <h3><i>Empowering students through smarter tutoring connections.</i></h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Supertest-6E36BC?style=for-the-badge"/>
+  </p>
+</div>
+</div>
 
 ## 1. Overview
 
+**TutorConnect** is an online booking and scheduling application for tutoring services and can be accessed on all platforms (Web, IOS, Android). The design behind TutorConnect is to streamline the process of booking, finding and managing tutoring sessions. Unlike the traditional methods where students will contact tutors via multiple social media platforms or across separate applications, TutorConnect will provide a centralized, digital platform that will include in-app messaging, meetings and calendars for booking or booked sessions. This will be integrated through user-friendly dashboards for Admin, Students and Tutors. TutorConnect therefore enhances efficiency by allowing students to book sessions instantly, tutors to manage their schedules, and admin to monitor the system.  The app has API functionality such as Payment Gateways, an AI chatbot, a video search algorithm integration, and a quiz feature to improve your knowledge.
 
-
-**TutorConnect** is a modern tutoring platform developed by **W.I.L Enterprise**. It connects students with verified tutors for one-on-one or group learning sessions.  
-
-The platform focuses on accessibility, personalized learning, and efficient session management.  
-
-Students can discover tutors based on subject expertise, book sessions, complete quizzes, track their progress, and communicate directly within the app.
-
-<div style="display: inline-block; width: 28%; vertical-align: top; text-align: right;">
-  <img src="https://github.com/user-attachments/assets/9d3fafb7-df1f-4c5b-81c9-1b92be362c1e" 
-       alt="TutorConnect Graphic" 
-       width="230" 
-       style="border-radius: 12px; margin-left: 16px; margin-top: 8px;">
-</div>
+<img width="1920" height="1080" alt="tutor-connect (2)" src="https://github.com/user-attachments/assets/fed992f9-c202-48e5-815e-33cd65ca68db" />
 
 ---
 
@@ -32,6 +35,8 @@ Students can discover tutors based on subject expertise, book sessions, complete
 - **Ayushkar Ramkisson** — Backend Developer  
 - **Kian Campbell** — Full-Stack Developer  
 
+[![View Website](https://img.shields.io/badge/View%20Our%20Website-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wil-web.onrender.com/)
+ 
 Each member contributed to the planning, design, development, and testing of TutorConnect, ensuring a seamless workflow and consistent coding standards across all modules.
 
 ---
@@ -235,3 +240,7 @@ npx expo install --fix -- --legacy-peer-deps
 ```
 
 For API updates, ensure backend changes are redeployed on Render before syncing with the frontend.
+
+# References
+
+
