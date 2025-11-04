@@ -204,30 +204,23 @@ npx expo install --fix -- --legacy-peer-deps
 npx expo start --clear
 ```
 
-Step 4: Run the Application
-# Start backend
-```
-cd backend
-npm start
-```
-
 # Start frontend (mobile/web)
 ```
 cd frontend
 npx expo start
 ```
 
-Step 5: Environment Variables
+Step 4: Environment Variables
 
 Create a .env file in both backend and frontend directories.
 
-Step 6: Testing
+Step 5: Testing
 
 Run unit and integration tests using Jest or Supertest.
 ```
 npm test
 ```
-Step 7: Notes
+Step 6: Notes
 
 For mobile development, install Expo Go on your device and scan the QR code from your terminal after running:
 ```
