@@ -210,6 +210,8 @@ cd frontend
 npx expo start
 ```
 
+
+
 Step 4: Environment Variables
 
 Create a .env file in both backend and frontend directories.
